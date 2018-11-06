@@ -9,7 +9,7 @@
 <body>
     <form action="#" method="post">
         <input type="text" name="url" id="url">
-        <input type="submit" value="Push">
+        <input type="submit" value="Generate">
     </form>
 </body>
 </html>
